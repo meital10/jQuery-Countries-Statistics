@@ -1,0 +1,49 @@
+#totalCountries {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 20px;
+}
+
+div[class*="col"] {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#main {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Orelega One", cursive;
+}
+
+div[class*="row"] {
+  width: 60%;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid rgb(152, 175, 202);
+  border-radius: 5px;
+}
+
+#btnSearch {
+  width: 50%;
+  margin-left: 100px;
+}
+#btnAll {
+  width: 50%;
+  margin-left: 25%;
+}
+
+#search {
+  width: 100%;
+  margin-left: 50px;
+}
+
+#countryinfo {
+  width: 100%;
+}
+
+.table {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
